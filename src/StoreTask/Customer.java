@@ -1,2 +1,4 @@
-package StoreTask;public class Customer {
-}
+package StoreTask;
+
+//public class Customer extends Person{
+//}
