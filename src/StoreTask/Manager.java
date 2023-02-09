@@ -11,7 +11,6 @@ public class Manager extends Staff {
         return "Manager{} " + super.toString();
 
     }
-
 }
 
 
